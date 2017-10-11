@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/37328484.svg)](https://zenodo.org/badge/latestdoi/37328484)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1009129.svg)](https://doi.org/10.5281/zenodo.1009129)
 
 # Lice
 
